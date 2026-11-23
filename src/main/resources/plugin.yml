@@ -1,0 +1,8 @@
+name: DarkScoreboard
+version: 1.0.0
+main: com.zenfun.scoreboard.Main
+api-version: '1.21'
+description: ZENFUN MC Scoreboard
+author: Dark
+depend: [Vault]
+softdepend: [PlaceholderAPI, UltimateTeams]
